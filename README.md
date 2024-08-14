@@ -63,13 +63,10 @@ Server will run on your localhost:3000
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lalitsportfolio.vercel.app/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://twitter.com/)
-[![Buy Me A Coffee Badge](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=for-the-badge)](https://www.buymeacoffee.com/lalitpagarx)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)]([https://twitter.com/](https://www.linkedin.com/in/swastid-solanki-879551212/))
+[![Buy Me A Coffee Badge](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=for-the-badge)](https://www.buymeacoffee.com/swastid)
 ## Feedback
 
-If you have any feedback, please reach out to us at lalitpagare.dev@gmail.com
+If you have any feedback, please reach out to me at swastid03@gmail.com
 
-## Author
 
-- [@devXlalit](https://github.com/devXlalit)
