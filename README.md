@@ -63,7 +63,6 @@ Server will run on your localhost:3000
 
 
 ## 🔗 Links
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)]([https://twitter.com/](https://www.linkedin.com/in/swastid-solanki-879551212/))
 [![Buy Me A Coffee Badge](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=for-the-badge)](https://www.buymeacoffee.com/swastid)
 ## Feedback
 
