@@ -38,7 +38,7 @@ Create , Read , and Share your blogs using this free and open source blogging we
 Clone Git Repo.
 
 ```bash
-git clone "https://github.com/devXlalit/Project_weblogs.git"
+git clone "git@github.com:SwastidSolanki/blog-app.git"
 ```
 Install using npm,pnpm,bun,yarn
 (prefered npm)
