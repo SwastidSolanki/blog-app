@@ -38,10 +38,10 @@ const About = () => {
         
 
       Welcome to our blog app! 
-      We're passionate about sharing stories, ideas, and knowledge with the world.
+      We are passionate about sharing stories, ideas, and knowledge with the world.
       Our mission is to create a platform where diverse voices can connect and inspire.
         Explore a variety of topics, discover new perspectives, and engage with our community.
-        We believe that blogging is more than just writing; it's a journey of connection and growth. 
+        We believe that blogging is more than just writing; it is a journey of connection and growth. 
         Join us on this exciting adventure! 
         </p>
         
